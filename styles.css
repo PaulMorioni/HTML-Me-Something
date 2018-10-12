@@ -1,0 +1,56 @@
+
+main{
+    padding: 20px
+}
+
+header{
+padding-inline-start: 30%
+
+}
+
+#judo_head{
+    padding-inline-start: 50%
+}
+
+#judo_ar{
+    padding-left: 10px
+    padding-right: 10px    
+}
+
+p{
+    padding-left: 10%
+    padding-right: 10%
+}
+
+#TKD_head{
+    padding-inline-start: 48%
+}
+
+#TKD_ar{
+    padding: 15px
+}
+
+
+#FMA_head{
+    padding-inline-start: 50%
+}
+
+#FMA_ar{
+    padding: 15px
+}
+
+
+body{
+    background-color: beige
+
+
+}
+
+footer{
+    padding-left: 40%
+
+}
+
+img{
+    padding-left: 40%
+}
