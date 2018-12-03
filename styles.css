@@ -8,9 +8,6 @@ padding-inline-start: 30%
 
 }
 
-#judo_head{
-    padding-inline-start: 50%
-}
 
 #judo_ar{
     padding-left: 10px
@@ -22,16 +19,14 @@ p{
     padding-right: 10%
 }
 
-#TKD_head{
-    padding-inline-start: 48%
-}
+
 
 #TKD_ar{
     padding: 15px
 }
 
 
-#FMA_head{
+.head{
     padding-inline-start: 50%
 }
 
